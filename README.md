@@ -1,0 +1,13 @@
+# Crawl of https://www.ami.com/bios-uefi-utilities
+
+| Setting | Value |
+|---------|-------|
+| Depth | 0 |
+| Delay | 0.25s |
+| Download extensions | all |
+| Upload extensions | all |
+| Concurrency | auto workers |
+| Git push every | 100 files |
+| Debug | true |
+| Run | #117 |
+| Status | 🔄 Crawling in progress… |
